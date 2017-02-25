@@ -1,3 +1,35 @@
+/*body {
+  background-color: #999999;
+  max-width: 700px;
+  width: 80%;
+  margin: 20px auto;
+  background: url(http://4.bp.blogspot.com/-hCBHRYdp5kM/VG9mJ8u2fBI/AAAAAAAAHIQ/nRnmPeRhOvc/s1600/Demais10472%2BBabiRossi%2BA%2Bfazenda%2Blinda.jpg);
+  no-repeat ;
+  background-size: cover;
+}*/
+
 body {
-  background-color: grey;
+  max-width: 700px;
+  width: 80%;
+  margin: 20px auto;
+}
+
+html {
+  background: url(http://moshlab.com/wp-content/uploads/2015/03/Zakynthos-Beach-Landscape-Nature-Wallpaper-Images-HD-Free-77348993.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: yellow;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  color: white;
 }
