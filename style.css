@@ -24,19 +24,26 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+/*se voce quiser mudar essa propriedade, é so usar uma classe mais especifica!*/
+body {
+  text-align: justify;
+  text-justify: inter-word
+}
+
+/*h1, h2, p {
+  text-align: justify;
+  text-justify: inter-word
+}*/
 
 h1 {
   color: yellow;
-  text-align: justify;
 }
 
 h2 {
   color: red;
-    text-align: justify;
+
 }
 
 p {
   color: white;
-  text-align: justify;
-  text-justify: inter-word
 }
