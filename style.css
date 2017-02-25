@@ -8,13 +8,16 @@
   background-size: cover;
 }*/
 
-body {
+/*body {
   max-width: 700px;
   width: 80%;
   margin: 20px auto;
-}
+}*/
 
 html {
+  max-width: 700px;
+  width: 80%;
+  margin: 20px auto;
   background: url(http://moshlab.com/wp-content/uploads/2015/03/Zakynthos-Beach-Landscape-Nature-Wallpaper-Images-HD-Free-77348993.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -24,12 +27,16 @@ html {
 
 h1 {
   color: yellow;
+  text-align: justify;
 }
 
 h2 {
   color: red;
+    text-align: justify;
 }
 
 p {
   color: white;
+  text-align: justify;
+  text-justify: inter-word
 }
